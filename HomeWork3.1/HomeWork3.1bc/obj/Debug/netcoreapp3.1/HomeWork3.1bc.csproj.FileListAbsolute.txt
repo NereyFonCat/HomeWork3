@@ -1,0 +1,13 @@
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.exe
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.deps.json
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.runtimeconfig.json
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.runtimeconfig.dev.json
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.dll
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\bin\Debug\netcoreapp3.1\HomeWork3.1bc.pdb
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.csprojAssemblyReference.cache
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.AssemblyInfoInputs.cache
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.AssemblyInfo.cs
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.csproj.CoreCompileInputs.cache
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.dll
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.pdb
+C:\Users\sukha\Desktop\Обучение\C#\HomeWork3\HomeWork3.1\HomeWork3.1bc\obj\Debug\netcoreapp3.1\HomeWork3.1bc.genruntimeconfig.cache
